@@ -1,0 +1,23 @@
+{
+  "name": "ChatMessage",
+  "type": "object",
+  "properties": {
+    "module_context": {
+      "type": "string",
+      "description": "Which module the question was asked in"
+    },
+    "question": {
+      "type": "string",
+      "description": "User's question"
+    },
+    "answer": {
+      "type": "string",
+      "description": "AI's response"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "required": []
+}

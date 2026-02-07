@@ -1,0 +1,37 @@
+{
+  "name": "UserProgress",
+  "type": "object",
+  "properties": {
+    "completed_modules": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of module IDs the user has completed"
+    },
+    "current_module": {
+      "type": "string",
+      "description": "Current module the user is viewing"
+    },
+    "sandbox_scenarios": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "data": {
+            "type": "object"
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      },
+      "description": "Saved sandbox scenarios"
+    }
+  },
+  "required": []
+}
