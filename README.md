@@ -1,39 +1,50 @@
-**Welcome to your Base44 project** 
+# Prediction Market Academy 📈
 
-**About**
+A comprehensive, ground-up educational platform designed to take users from zero knowledge to a professional foundation in prediction markets and decentralized forecasting.
 
-View and Edit  your app on [Base44.com](http://Base44.com) 
+## 🔗 Live Application
+**Explore the Academy here:** https://warm-duckanoo-3c88c6.netlify.app
 
-This project contains everything you need to run your app locally.
+---
 
-**Edit the code in your local development environment**
+## 📖 In-Depth Research Report
+For a deep dive into the theoretical framework and the future of decentralized oracles, please read our full report:
+[**Link to your Deep-Dive Report/PDF here**]
 
-Any change pushed to the repo will also be reflected in the Base44 Builder.
+---
 
-**Prerequisites:** 
+## 🎯 Our Mission
+The prediction market space can be intimidating. Our focus is to provide the "missing manual" for the next generation of analysts and builders. We teach the mechanics, the math, and the strategy through a "learning by doing" philosophy—taking you from absolute zero to a base where you can innovate.
 
-1. Clone the repository using the project's Git URL 
-2. Navigate to the project directory
-3. Install dependencies: `npm install`
-4. Create an `.env.local` file and set the right environment variables
+## 🏛️ The Learning Pillars
+Our curriculum is structured into specialized modules, each building upon the last:
 
-```
-VITE_BASE44_APP_ID=key
-VITE_BASE44_APP_BASE_URL=https://predictive-markets.base44.app
+* **Fundamentals:** The core concept of "Skin in the Game" and binary event outcomes.
+* **Pricing & AMMs:** Deep diving into Automated Market Maker math and share distribution.
+* **Market Dynamics:** Identifying the roles of Informed Traders, Arbitrageurs, and Liquidity Providers.
+* **Opportunity Markets:** Learning to spot and correct market inefficiencies.
+* **Interactive Sandbox:** A free-play environment to test theories without limits.
+* **Trading Strategies:** Professional approaches to position sizing and risk management.
+* **DeFi Integration:** Understanding the trustless infrastructure of the modern market.
 
-e.g.
-VITE_BASE44_APP_ID=cbef744a8545c389ef439ea6
-VITE_BASE44_APP_BASE_URL=https://my-to-do-list-81bfaad7.base44.app
-```
+## 🛠️ Key Features
 
-Run the app: `npm run dev`
+### 1. Interactive Demos & Simulators
+Theory is backed by action. The platform includes multiple custom-built simulators where you can watch prices react to news in real-time and visualize how capital flows toward the most likely outcomes.
 
-**Publish your changes**
+### 2. Integrated AI Tutor
+Every pillar is equipped with a context-aware AI Tutor. Whether you are stuck on the math of a pricing curve or need a simpler explanation of a DeFi oracle, the tutor provides real-time, academic-yet-forgiving guidance.
 
-Open [Base44.com](http://Base44.com) and click on Publish.
+### 3. Data-Driven Visualizations
+Utilizing **Recharts** and **Framer Motion**, we transform abstract market data into intuitive, living graphs that respond directly to user input.
 
-**Docs & Support**
 
-Documentation: [https://docs.base44.com/Integrations/Using-GitHub](https://docs.base44.com/Integrations/Using-GitHub)
 
-Support: [https://app.base44.com/support](https://app.base44.com/support)
+## 💻 Technical Stack
+- **Frontend:** React / Vite
+- **Styling:** Tailwind CSS + Shadcn/UI
+- **Data Viz:** Recharts + Framer Motion
+- **Hosting:** Netlify (Continuous Deployment)
+
+---
+*Developed as a specialized environment for mastering the science of decentralized forecasting.*
