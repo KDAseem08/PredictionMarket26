@@ -51,6 +51,7 @@ import Home from './pages/Home';
 import Fundamentals from './pages/Fundamentals';
 import Pricing from './pages/Pricing';
 import MarketDynamics from './pages/MarketDynamics';
+import Opportunity from './pages/Opportunity';
 import Sandbox from './pages/Sandbox';
 import Strategies from './pages/Strategies';
 import DeFi from './pages/DeFi';
@@ -62,6 +63,7 @@ export const PAGES = {
     "Fundamentals": Fundamentals,
     "Pricing": Pricing,
     "MarketDynamics": MarketDynamics,
+    "Opportunity": Opportunity,
     "Sandbox": Sandbox,
     "Strategies": Strategies,
     "DeFi": DeFi,

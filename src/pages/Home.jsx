@@ -37,6 +37,15 @@ const modules = [
     color: 'from-emerald-500 to-teal-500',
   },
   {
+    id: 'opportunity',
+    name: 'Opportunity Market',
+    icon: TrendingUp,
+    path: 'Opportunity',
+    description: 'Master how opportunity markets aggregate global truth',
+    difficulty: 'Intermediate',
+    color: 'from-rose-500 to-rose-500',
+  },
+  {
     id: 'sandbox',
     name: 'Interactive Sandbox',
     icon: Boxes,

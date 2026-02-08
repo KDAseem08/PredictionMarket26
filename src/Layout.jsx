@@ -7,9 +7,10 @@ const modules = [
   { id: 'fundamentals', name: 'Fundamentals', icon: BookOpen, path: 'Fundamentals', order: 1 },
   { id: 'pricing', name: 'Contract Pricing', icon: Calculator, path: 'Pricing', order: 2 },
   { id: 'dynamics', name: 'Market Dynamics', icon: Users, path: 'MarketDynamics', order: 3 },
-  { id: 'sandbox', name: 'Sandbox', icon: Boxes, path: 'Sandbox', order: 4 },
-  { id: 'strategies', name: 'Trading Strategies', icon: Brain, path: 'Strategies', order: 5 },
-  { id: 'defi', name: 'DeFi Integration', icon: Coins, path: 'DeFi', order: 6 },
+  { id: 'opportunity', name: 'Opportunity Markets', icon: TrendingUp, path: 'Opportunity', order: 4 },
+  { id: 'sandbox', name: 'Sandbox', icon: Boxes, path: 'Sandbox', order: 5 },
+  { id: 'strategies', name: 'Trading Strategies', icon: Brain, path: 'Strategies', order: 6 },
+  { id: 'defi', name: 'DeFi Integration', icon: Coins, path: 'DeFi', order: 7 },
 ];
 
 export default function Layout({ children, currentPageName }) {

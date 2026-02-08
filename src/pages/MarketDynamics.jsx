@@ -288,9 +288,9 @@ export default function MarketDynamics() {
             <CheckCircle2 className="w-4 h-4 mr-2" />
             Mark Complete
           </Button>
-          <Link to={createPageUrl('Sandbox')}>
+          <Link to={createPageUrl('Opportunity')}>
             <Button className="bg-indigo-600 hover:bg-indigo-700">
-              Next: Interactive Sandbox
+              Next: Opportunity Market
               <ArrowRight className="w-4 h-4 ml-2" />
             </Button>
           </Link>
