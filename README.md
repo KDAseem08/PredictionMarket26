@@ -3,13 +3,13 @@
 A comprehensive, ground-up educational platform designed to take users from zero knowledge to a professional foundation in prediction markets and decentralized forecasting.
 
 ## 🔗 Live Application
-**Explore the Academy here:** https://warm-duckanoo-3c88c6.netlify.app
+**Explore the Academy here:** (https://warm-duckanoo-3c88c6.netlify.app)
 
 ---
 
 ## 📖 In-Depth Research Report
 For a deep dive into the theoretical framework and the future of decentralized oracles, please read our full report:
-[**Link to your Deep-Dive Report/PDF here**]
+(https://github.com/KDAseem08/PredictionMarket26/blob/main/ETH-OXFORD-26%20Final%20Report.md)
 
 ---
 
