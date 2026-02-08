@@ -178,4 +178,5 @@ Standard concepts still apply: expected value, Kelly‑style bankroll management
 
 ---
 
-## **Conclusion** Forecasting the Multiverse is an interactive learning sandbox that demystifies prediction markets and DeFi settlement. Users don’t just read definitions—they trade YES/NO contracts, watch AMM prices move with liquidity and slippage, simulate multi-trader market corrections, and step through a DeFi-style contract lifecycle from wallet interactions to oracle-driven settlement. The site is structured around five pillars—beliefs, mechanics, incentives, resolution, and risk—so learners build both intuition and technical understanding.
+## **Conclusion** 
+Forecasting the Multiverse is an interactive learning sandbox that demystifies prediction markets and DeFi settlement. Users don’t just read definitions—they trade YES/NO contracts, watch AMM prices move with liquidity and slippage, simulate multi-trader market corrections, and step through a DeFi-style contract lifecycle from wallet interactions to oracle-driven settlement. The site is structured around five pillars—beliefs, mechanics, incentives, resolution, and risk—so learners build both intuition and technical understanding.
